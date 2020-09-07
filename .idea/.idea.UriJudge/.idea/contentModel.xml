@@ -39,7 +39,6 @@
             </e>
           </e>
         </e>
-        <e p="UnitTest1.cs" t="Include" />
         <e p="UriJudgeTests.csproj" t="IncludeRecursive" />
       </e>
     </e>
