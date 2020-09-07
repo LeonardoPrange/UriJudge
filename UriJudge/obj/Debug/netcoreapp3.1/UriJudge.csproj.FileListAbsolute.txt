@@ -1,0 +1,12 @@
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/bin/Debug/netcoreapp3.1/UriJudge.deps.json
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/bin/Debug/netcoreapp3.1/UriJudge.runtimeconfig.json
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/bin/Debug/netcoreapp3.1/UriJudge.runtimeconfig.dev.json
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/bin/Debug/netcoreapp3.1/UriJudge.dll
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/bin/Debug/netcoreapp3.1/UriJudge.pdb
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.csprojAssemblyReference.cache
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.AssemblyInfoInputs.cache
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.AssemblyInfo.cs
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.csproj.CoreCompileInputs.cache
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.dll
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.pdb
+/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/Debug/netcoreapp3.1/UriJudge.genruntimeconfig.cache

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudgeTests/UriJudgeTests.csproj": {}
+  },
+  "projects": {
+    "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/UriJudge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/UriJudge.csproj",
+        "projectName": "UriJudge",
+        "projectPath": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/UriJudge.csproj",
+        "packagesPath": "/Users/tw_leonardoprange/.nuget/packages/",
+        "outputPath": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tw_leonardoprange/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tw_leonardoprange/.dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudgeTests/UriJudgeTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudgeTests/UriJudgeTests.csproj",
+        "projectName": "UriJudgeTests",
+        "projectPath": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudgeTests/UriJudgeTests.csproj",
+        "packagesPath": "/Users/tw_leonardoprange/.nuget/packages/",
+        "outputPath": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudgeTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tw_leonardoprange/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/UriJudge.csproj": {
+                "projectPath": "/Users/tw_leonardoprange/RiderProjects/UriJudge/UriJudge/UriJudge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tw_leonardoprange/.dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
